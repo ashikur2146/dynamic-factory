@@ -8,13 +8,15 @@ You can also extend its functionality and make it serve your needs within its bo
 
 This library is digitally signed. In order to verify its authenticity openup a terminal within the directory and run the following command
 
-```jarsigner -verify dynamic-factory-1.0.0.jar```
+```
+jarsigner -verify dynamic-factory-1.0.0.jar
+```
 
 You will find the output similar to below if it the library is verified, please note that certificate was not issued by any trusted Certificate authority.
 
 ```
 jar verified.
-
+```
 ....
 
 # How to guide
