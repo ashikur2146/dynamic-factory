@@ -145,6 +145,20 @@ public class ValidationTest {
 	}
 }
 ```
+output:
+```
+b
+10
+a
+28
+a
+25
+ab
+35
+x
+20
+test void
+```
 
 # Integration with other programming languages
 
