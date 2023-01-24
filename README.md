@@ -1,6 +1,6 @@
 # Dynamic Factory
 
-This library is overriding the default factory design pattern behavior and providing dynamic method call based on a given input data. In factory design pattern additional branching like if-else or switch-case statements are used which often seems cumbersome if there are many factories you need to create. So, this library will mostly take care of it.
+Factory design pattern is one of the most used, perhaps the most used design pattern in the software development. For a small scale project the downside of this pattern is not easily understood, but in a large scale project where too many functional components co-exist, branching for this pattern really become cumbersome. So, I am publishing a library named dynamic factory which will take care most of this cumbersome work. It is published under General Public License (GPL v3.0).
 
 You can also extend its functionality and make it serve your needs within its boundary. Just a disclaimer before diving into the how to guide, this library is not available on maven central so follow the steps to add this into your current project.
 
